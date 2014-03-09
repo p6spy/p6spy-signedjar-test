@@ -1,8 +1,5 @@
 # maven output directory
 target
-/build
-/dist
-javadocs
 
 # Eclipse files
 /bin
@@ -15,18 +12,3 @@ javadocs
 *.iml
 /atlassian-ide-plugin.xml
 
-# Log files
-spy.log
-
-# Other files
-/test-output
-reloadtest.properties
-/scratch/
-testspy.forms
-*.swp
-.DS_Store
-/pom.xml.versionsBackup
-reload.log
-dependency-reduced-pom.xml
-.vagrant
-Berksfile.lock
